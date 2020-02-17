@@ -5,5 +5,46 @@
 }
 
 main{
+  background-color: lightgrey;
+}
+
+header{
+  margin-top: 10px;
   background-color: grey;
+  width: 50%;
+  margin-left: 25%;
+  height: 200px;
+}
+
+nav{
+  margin-top: 10px;
+  background-color: grey;
+  width: 50%;
+  margin-left: 25%;
+  height: 25px;
+}
+
+.feeds{
+
+}
+
+section{
+
+
+}
+
+.widget_1{
+
+}
+
+.widget_2{
+
+}
+
+.widget_3{
+
+}
+
+footer{
+  
 }
